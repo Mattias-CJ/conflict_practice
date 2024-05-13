@@ -1,5 +1,4 @@
 # favorite food
 
 apple
-orange
-banana
+yakiniku
